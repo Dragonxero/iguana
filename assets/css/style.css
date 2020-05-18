@@ -1,0 +1,12 @@
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+section div,
+img {
+  display: inline-block;
+  width: 48%;
+  height: inherit;
+  vertical-align: middle;
+}
